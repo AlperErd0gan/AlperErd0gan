@@ -28,7 +28,7 @@ technical_background:
     
   ]
   
-currently_learning: ["Frameworks such as TenserFlow and Mediapipe"]
+currently_learning: ["Frameworks such as TensorFlow and Mediapipe"]
 2025 Goals: ["Create 25+ Projects and learn at least 5-10 new Technologies."]
 hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
 ```
