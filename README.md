@@ -46,6 +46,6 @@ hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
 
 
 
-![Snake animation](https://github.com/AlperErd0gan/AlperErd0gan/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
+![Snake animation](https://raw.githubusercontent.com/AlperErd0gan/AlperErd0gan/blob/output/github-contribution-grid-snake.svg)
 
 
