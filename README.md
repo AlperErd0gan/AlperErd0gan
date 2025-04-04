@@ -1,37 +1,16 @@
-## A Little Bit About Me ✌️
+## 👋 A Little Bit About Me
 
+| Key                 | Details                                                                 |
+|---------------------|-------------------------------------------------------------------------|
+| **Name**            | Alper Erdoğan                                                           |
+| **Location**        | İstanbul, Turkey                                                        |
+| **Education**       | Bachelor's in Computer Engineering                                      |
+| **Fields of Interest** | Web Dev, Data Science, ML, AI, Game Dev, DevOps                   |
+| **Technical Experience** | Intern - ML (Python), Intern - Android Developer               |
+| **Currently Learning** | TensorFlow, Mediapipe                                              |
+| **2025 Goals**      | Build 25+ Projects, Learn 5-10 New Technologies                         |
+| **Hobbies**         | Gaming, Cinema, Skateboarding, Art, Comedy                             |
 
-```yaml
-name: Alper Erdogan
-located_in: İstanbul, Turkey
-
-education:
-  [
-    "Developer and Designer",
-    "Bachelor's in Computer Engineering",
-  ]
-
-
-fields_of_interests:
-  [
-    "Web Development",
-    "Data Science",
-    "Machine Learning",
-    "AI",
-    "Game Development",
-    "DevOps",
-  ]
-technical_background:
-  [ 
-    "Intern - Machine Learning in Python",
-    "Intern - Android Developer",
-    
-  ]
-  
-currently_learning: ["Frameworks such as TensorFlow and Mediapipe"]
-2025 Goals: ["Create 25+ Projects and learn at least 5-10 new Technologies."]
-hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
-```
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
