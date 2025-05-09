@@ -9,7 +9,7 @@
 | **Technical Experience** | Intern - ML (Python), Intern - Android Developer               |
 | **Currently Learning** | TensorFlow, Mediapipe                                              |
 | **2025 Goals**      | Build 25+ Projects, Learn 5-10 New Technologies                         |
-| **Hobbies**         | Gaming, Cinema, Skateboarding, Art, Comedy                             |
+| **Hobbies**         | Gaming, Cinema, Basketball, Art, Comedy                             |
 
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
