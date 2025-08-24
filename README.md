@@ -4,7 +4,7 @@
 |---------------------|-------------------------------------------------------------------------|
 | **Name**            | Alper Erdoğan                                                           |
 | **Location**        | İstanbul, Turkey                                                        |
-| **Education**       | Bachelor in Computer Engineering                                      |
+| **Education**       | Bachelor's in Computer Engineering                                      |
 | **Fields of Interest** | Web Dev, Data Science, ML, AI, Game Dev, DevOps                   |
 | **Technical Experience** | Intern - ML (Python), Intern - Android Developer               |
 | **Currently Learning** | TensorFlow, Mediapipe                                              |
