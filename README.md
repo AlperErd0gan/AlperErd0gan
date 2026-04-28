@@ -30,17 +30,9 @@
 
 ![Snake animation](https://github.com/AlperErd0gan/AlperErd0gan/blob/output/github-contribution-grid-snake.svg)
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AlperErd0gan/AlperErd0gan/activity-data/github_dark/0-profile-details.svg" width="450px" alt="Activity Radar">
-</p>
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AlperErd0gan&theme=radical&no-frame=true" alt="Trophies">
-</p>
-
----
 
 <table align="center" border="0" cellpadding="0" cellspacing="0">
   <tr>
