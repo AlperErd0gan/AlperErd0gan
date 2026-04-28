@@ -27,10 +27,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="45" height="45"/>
 </p>
 
-![Snake animation](https://github.com/AlperErd0gan/AlperErd0gan/blob/output/github-contribution-grid-snake.svg)
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AlperErd0gan/AlperErd0gan/output/profile-summary-card-output/github_dark/0-profile-details.svg" width="450px" alt="Activity Radar">
+  <img src="https://raw.githubusercontent.com/AlperErd0gan/AlperErd0gan/activity-data/github_dark/0-profile-details.svg" width="450px" alt="Activity Radar">
 </p>
+
+![Snake animation](https://github.com/AlperErd0gan/AlperErd0gan/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
