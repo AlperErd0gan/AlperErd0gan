@@ -16,6 +16,4 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
-          # CHANGE THIS to "output" to match the snake logic
-          BRANCH_NAME: "output" 
-          THEME: github_dark
+          BRANCH_NAME: "output" # Yılan oyunuyla aynı mantık, dosyalar 'output' branch'ine gidecek.
