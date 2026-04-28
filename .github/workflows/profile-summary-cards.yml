@@ -1,0 +1,20 @@
+name: GitHub-Profile-Summary-Cards
+
+on:
+  schedule: # This will update your cards every night at midnight
+    - cron: "0 0 * * *"
+  workflow_dispatch: # This allows you to run it manually right now
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-summary-cards
+    steps:
+      - uses: actions/checkout@v3
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          # You can change the theme here (options: github, github_dark, radical, solarized, etc.)
+          BRANCH_NAME: "main"
