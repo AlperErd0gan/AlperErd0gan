@@ -2,11 +2,11 @@
 
 | Key                 | Details                                                                 |
 |---------------------|-------------------------------------------------------------------------|
-| **Name**            | Alper Erdoğan                                                           |
-| **Location**        | İstanbul, Turkey                                                        |
+| **Name**            | Alper Erdogan                                                           |
+| **Location**        | Istanbul, Turkey                                                        |
 | **Education**       | Bachelor's in Computer Engineering                                      |
 | **Fields of Interest** | Web Dev, Data Science, ML, AI, Game Dev, DevOps                   |
-| **Technical Experience** | Intern - ML (Python), Intern - Android Developer               |
+| **Technical Experience** | Intern - ML (Python), Intern - Android Developer, Intern Backend              |
 | **Currently Learning** | TensorFlow, Mediapipe                                              |
 | **2025 Goals**      | Build 25+ Projects, Learn 5-10 New Technologies                         |
 | **Hobbies**         | Gaming, Cinema, Basketball, Art, Comedy                             |
@@ -28,5 +28,8 @@
 </p>
 
 ![Snake animation](https://github.com/AlperErd0gan/AlperErd0gan/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/alppozcann/alppozcann/output/profile-summary-card-output/github_dark/0-profile-details.svg" width="450px" alt="Activity Radar">
+</p>
 
 
