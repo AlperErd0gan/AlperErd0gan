@@ -29,7 +29,8 @@
 
 ![Snake animation](https://github.com/AlperErd0gan/AlperErd0gan/blob/output/github-contribution-grid-snake.svg)
 <p align="center">
-  <img src="https://raw.githubusercontent.com/alppozcann/alppozcann/output/profile-summary-card-output/github_dark/0-profile-details.svg" width="450px" alt="Activity Radar">
+  <img src="https://raw.githubusercontent.com/AlperErd0gan/AlperErd0gan/output/profile-summary-card-output/github_dark/0-profile-details.svg" width="450px" alt="Activity Radar">
 </p>
+
 
 
