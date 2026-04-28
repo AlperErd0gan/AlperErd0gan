@@ -1,9 +1,9 @@
 name: GitHub-Profile-Summary-Cards
 
 on:
-  schedule: # This will update your cards every night at midnight
+  schedule:
     - cron: "0 0 * * *"
-  workflow_dispatch: # This allows you to run it manually right now
+  workflow_dispatch:
 
 jobs:
   build:
@@ -16,5 +16,6 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
-          # You can change the theme here (options: github, github_dark, radical, solarized, etc.)
-          BRANCH_NAME: "main"
+          # CHANGE THIS to "output" to match the snake logic
+          BRANCH_NAME: "output" 
+          THEME: github_dark
