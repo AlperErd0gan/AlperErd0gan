@@ -1,45 +1,50 @@
-## 👋 A Little Bit About Me
+<!-- Animated header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6E40C9,100:1F6FEB&height=220&section=header&text=Alper%20Erdogan&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%C2%B7%20Agentic%20AI%20%C2%B7%20Data%20Engineering&descAlignY=58&descSize=18" width="100%" alt="Header"/>
 
-| Key                 | Details                                                                 |
-|---------------------|-------------------------------------------------------------------------|
-| **Name**            | Alper Erdogan                                                           |
-| **Location**        | Istanbul, Turkey                                                        |
-| **Education**       | Bachelor's in Computer Engineering                                      |
-| **Fields of Interest** | Web Dev, Data Science, ML, AI, Game Dev, DevOps                   |
-| **Technical Experience** | Intern - ML (Python), Intern - Android Developer, Intern Backend              |
-| **Currently Learning** | TensorFlow, Mediapipe                                              |
-| **2025 Goals**      | Build 25+ Projects, Learn 5-10 New Technologies                         |
-| **Hobbies**         | Gaming, Cinema, Basketball, Art, Comedy                             |
-
-
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="45" height="45"/>
-</p>
-
-
-![Snake animation](https://github.com/AlperErd0gan/AlperErd0gan/blob/output/github-contribution-grid-snake.svg)
-
+<!-- Typing animation -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AlperErd0gan&theme=radical&no-frame=true" alt="Trophies">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Building+multi-agent+LLM+systems;RAG+%2B+Tool+Calling+%2B+FastAPI;Lakehouse+pipelines+on+Azure+Databricks;Training+models+with+PyTorch;Master+Student+in+France+%F0%9F%87%AB%F0%9F%87%B7" alt="Typing SVG"/>
+  </a>
 </p>
 
 ---
 
-<table align="center" border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td align="center" colspan="2">
-      <img src="https://raw.githubusercontent.com/AlperErd0gan/AlperErd0gan/activity-data/github_dark/0-profile-details.svg" width="450px" alt="Activity Radar">
-    </td>
-  </tr>
-</table>
+## What I Do
+
+- Building **multi-agent assistants** with RAG and LLM tool calling
+- Designing **data pipelines** — Lakehouse, batch & streaming, ETL
+- Training **ML / CV models** with PyTorch & TensorFlow
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,fastapi,react,ts,java,azure,postgres,docker,git,linux&perline=7" alt="Tech stack"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/RAG-6E40C9?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Multi--Agent-6E40C9?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Tool_Calling-6E40C9?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AlperErd0gan/AlperErd0gan/activity-data/github_dark/0-profile-details.svg" width="450px" alt="Activity Radar">
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlperErd0gan/AlperErd0gan/output/github-contribution-grid-snake-dark.svg">
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/AlperErd0gan/AlperErd0gan/output/github-contribution-grid-snake.svg">
+</picture>
+
+<p align="center"><sub>🏀 Basketball · 🎬 Cinema · 🎨 Art · 🎮 Gaming</sub></p>
+
+<!-- Animated footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:6E40C9&height=120&section=footer" width="100%" alt="Footer"/>
